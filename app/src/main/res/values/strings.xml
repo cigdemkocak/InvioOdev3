@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Donuts</string>
+    <string name="baslik">Pink Donut</string>
+    <string name="ucret">Price :</string>
+    <string name="ucretMiktari">$ 29.99</string>
+    <string name="teslimatSuresi">20 minutes</string>
+    <string name="cilek">Strawberry</string>
+    <string name="muz">Banana</string>
+    <string name="cikolata">Chocolate</string>
+    <string name="visne">Cherry</string>
+    <string name="teslimatBasligi">Delivery</string>
+    <string name="teslimatAciklama">Enjoy Your Donuts !</string>
+    <string name="buton">ADD TO CART</string>
+</resources>

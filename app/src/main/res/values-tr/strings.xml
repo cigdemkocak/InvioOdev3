@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DonutTasarim</string>
+    <string name="baslik">Pembe Donut</string>
+    <string name="ucret">Ücret :</string>
+    <string name="ucretMiktari">122 ₺</string>
+    <string name="teslimatSuresi">20 dakika</string>
+    <string name="cilek">Çilek</string>
+    <string name="muz">Muz</string>
+    <string name="cikolata">Çikolata</string>
+    <string name="visne">Vişne</string>
+    <string name="teslimatBasligi">Teslimat</string>
+    <string name="teslimatAciklama">Afiyet olsun !</string>
+    <string name="buton">SEPETE EKLE</string>
+</resources>
