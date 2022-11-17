@@ -2,7 +2,7 @@
 - Aydınlık ve karanlık mode tasarımı 
 - Türkçe ve ingilizce dil desteği
 - Logo tasarımı
-- Xlarge ekranlara uymlu tasarım
+- Xlarge ekranlara uyumlu tasarım
 
 ![alt text](images/light_mode.JPG)
 ![alt text](images/dark_mode.jpg)
